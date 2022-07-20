@@ -1,0 +1,1 @@
+# DjangoTech - Semestral
